@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/toshalimohapatra/Documents/MLOps_MLFlow/mlruns/909493538027864008/a9bdd7abe7514c99a3ec42aef8238d65/artifacts
+end_time: 1750632442803
+entry_point_name: ''
+experiment_id: '909493538027864008'
+lifecycle_stage: active
+run_id: a9bdd7abe7514c99a3ec42aef8238d65
+run_name: placid-hound-941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750632442794
+status: 3
+tags: []
+user_id: toshalimohapatra

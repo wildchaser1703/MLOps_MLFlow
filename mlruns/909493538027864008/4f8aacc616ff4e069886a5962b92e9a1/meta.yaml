@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/toshalimohapatra/Documents/MLOps_MLFlow/mlruns/909493538027864008/4f8aacc616ff4e069886a5962b92e9a1/artifacts
+end_time: 1750632442827
+entry_point_name: ''
+experiment_id: '909493538027864008'
+lifecycle_stage: active
+run_id: 4f8aacc616ff4e069886a5962b92e9a1
+run_name: illustrious-ant-964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750632442820
+status: 3
+tags: []
+user_id: toshalimohapatra

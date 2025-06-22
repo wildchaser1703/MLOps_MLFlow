@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/toshalimohapatra/Documents/MLOps_MLFlow/mlruns/909493538027864008/61a23bd316214e54add6324d838b20b1/artifacts
+end_time: 1750632442857
+entry_point_name: ''
+experiment_id: '909493538027864008'
+lifecycle_stage: active
+run_id: 61a23bd316214e54add6324d838b20b1
+run_name: useful-eel-637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750632442851
+status: 3
+tags: []
+user_id: toshalimohapatra

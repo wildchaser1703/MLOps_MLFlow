@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/toshalimohapatra/Documents/MLOps_MLFlow/mlruns/909493538027864008/4b3f05908b9d4bd0bc9c37ade72f1d82/artifacts
+end_time: 1750632442864
+entry_point_name: ''
+experiment_id: '909493538027864008'
+lifecycle_stage: active
+run_id: 4b3f05908b9d4bd0bc9c37ade72f1d82
+run_name: nervous-lynx-11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750632442858
+status: 3
+tags: []
+user_id: toshalimohapatra

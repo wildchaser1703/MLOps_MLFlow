@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/toshalimohapatra/Documents/MLOps_MLFlow/mlruns/909493538027864008/3127cb8ea31248b0b9fa9a77fec0d3e1/artifacts
+end_time: 1750632442851
+entry_point_name: ''
+experiment_id: '909493538027864008'
+lifecycle_stage: active
+run_id: 3127cb8ea31248b0b9fa9a77fec0d3e1
+run_name: bustling-flea-252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750632442844
+status: 3
+tags: []
+user_id: toshalimohapatra

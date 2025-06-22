@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/toshalimohapatra/Documents/MLOps_MLFlow/mlruns/909493538027864008/7ea49c96d7d94af58a01ddbbc7d8e370/artifacts
+end_time: 1750632442811
+entry_point_name: ''
+experiment_id: '909493538027864008'
+lifecycle_stage: active
+run_id: 7ea49c96d7d94af58a01ddbbc7d8e370
+run_name: enthused-bug-388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750632442804
+status: 3
+tags: []
+user_id: toshalimohapatra

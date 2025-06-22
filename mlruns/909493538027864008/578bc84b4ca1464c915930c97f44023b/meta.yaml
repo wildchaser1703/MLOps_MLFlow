@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/toshalimohapatra/Documents/MLOps_MLFlow/mlruns/909493538027864008/578bc84b4ca1464c915930c97f44023b/artifacts
+end_time: 1750632442843
+entry_point_name: ''
+experiment_id: '909493538027864008'
+lifecycle_stage: active
+run_id: 578bc84b4ca1464c915930c97f44023b
+run_name: charming-crane-168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750632442835
+status: 3
+tags: []
+user_id: toshalimohapatra

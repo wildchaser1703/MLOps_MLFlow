@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/toshalimohapatra/Documents/MLOps_MLFlow/mlruns/909493538027864008/03cb6d738f2b40cebad4868cb0308f60/artifacts
+end_time: 1750632442787
+entry_point_name: ''
+experiment_id: '909493538027864008'
+lifecycle_stage: active
+run_id: 03cb6d738f2b40cebad4868cb0308f60
+run_name: thoughtful-auk-214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750632442780
+status: 3
+tags: []
+user_id: toshalimohapatra
