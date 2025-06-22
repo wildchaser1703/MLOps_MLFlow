@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/878ceccd8c514acca04ded2e5582a2ef/artifacts
+end_time: 1750553104086
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 878ceccd8c514acca04ded2e5582a2ef
+run_name: languid-bee-978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750553104074
+status: 3
+tags: []
+user_id: toshalimohapatra

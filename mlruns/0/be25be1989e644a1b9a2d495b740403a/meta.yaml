@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/be25be1989e644a1b9a2d495b740403a/artifacts
+end_time: 1750553892482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be25be1989e644a1b9a2d495b740403a
+run_name: bustling-pig-340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750553892252
+status: 4
+tags: []
+user_id: toshalimohapatra

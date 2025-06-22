@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/753416884942450607/c60e89fa3aad40f08a335089185fc6cb/artifacts
+end_time: 1750555115582
+entry_point_name: ''
+experiment_id: '753416884942450607'
+lifecycle_stage: active
+run_id: c60e89fa3aad40f08a335089185fc6cb
+run_name: sedate-worm-207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750555113646
+status: 3
+tags: []
+user_id: toshalimohapatra

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/553cbbf0b9f4476db1a26dd38a3e8d85/artifacts
+end_time: 1750553944798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 553cbbf0b9f4476db1a26dd38a3e8d85
+run_name: popular-whale-765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750553944610
+status: 3
+tags: []
+user_id: toshalimohapatra

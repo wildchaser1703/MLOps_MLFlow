@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c1ab735e8724447a841b82d67b9e74e0/artifacts
+end_time: 1750552914871
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1ab735e8724447a841b82d67b9e74e0
+run_name: powerful-squid-649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750552914858
+status: 3
+tags: []
+user_id: toshalimohapatra
